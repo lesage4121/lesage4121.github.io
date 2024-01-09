@@ -1,0 +1,10 @@
+html {
+  background-color: blue;
+ /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+  font-family: "Open Sans", sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+}
+body {
+  margin: 0 auto;
+  background-color: #ff9500;
+  border: 5px solid black;
+}
